@@ -7,3 +7,5 @@
 **PLATFORM:** [Udemy](https://www.udemy.com/)
 
 **_Milestone Project - 1:_** TIC-TAC-TOE
+
+**Description:** _A Python mini-project emulating the famous Tic-Tac-Toe game._
